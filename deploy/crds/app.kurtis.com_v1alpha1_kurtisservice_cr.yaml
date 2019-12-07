@@ -1,0 +1,7 @@
+apiVersion: app.kurtis.com/v1alpha1
+kind: KurtisService
+metadata:
+  name: example-kurtisservice
+spec:
+  # Add fields here
+  size: 3
